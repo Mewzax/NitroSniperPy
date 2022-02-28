@@ -2,9 +2,10 @@
 <img src=".github/sniper.jpg" style="border-radius: 50%">
 <p align="center">
 🔫 A nitro sniper made for educational purposes only
+<img src=".github/preview.png">
 </p>
 
-<img src=".github/preview.png">
+
 
 # Features
 - Snipe codes in all servers and dms of your account
