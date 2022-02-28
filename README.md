@@ -20,7 +20,7 @@
 - [Discord-Webhook](https://www.integromat.com/en/blog/guide-to-discord-webhooks)
 
 # Installation
-```
+```sh
 git clone https://github.com/Mewzax/NitroSniperPy
 cd NitroSniperPy
 pip install -r requirements.txt
