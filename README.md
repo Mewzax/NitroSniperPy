@@ -1,6 +1,6 @@
 <h1 align="center">NitroSniperPy</h1>
 <p align="center">
-<img src=".github/sniper.jpg">
+<img src=".github/sniper.jpg" style="border-radius: 50%">
 
 🔫 A nitro sniper made for educational purposes only
 </p>
