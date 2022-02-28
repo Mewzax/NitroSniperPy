@@ -10,6 +10,7 @@
 # Requirements
 - [Python](https://www.python.org/downloads/)
 - [Discord-Token](https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token)
+- [Discord-Webhook](https://www.integromat.com/en/blog/guide-to-discord-webhooks)
 
 # Installation
 ```
