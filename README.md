@@ -1,13 +1,14 @@
 <h1 align="center">NitroSniperPy</h1>
 <p align="center">
 <img src=".github/sniper.png" style="border-radius: 50%">
-
-🔫 A nitro sniper made for educational purposes only
 </p>
 
+<h4 align='center'>🔫 A nitro sniper made for educational purposes only</h4>
+
+
+# Preview
+
 <img src=".github/preview.png">
-
-
 
 # Features
 - Snipe codes in all servers and dms of your account
